@@ -1,0 +1,1 @@
+FROM spboyer/java-azurefunctions-dev
