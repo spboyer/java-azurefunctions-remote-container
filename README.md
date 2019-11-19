@@ -1,5 +1,7 @@
 # Java: Azure Functions Dev in a remote container
 
+[![Free Azure Account](https://img.shields.io/badge/Free%20Azure-Account-blue?logo=microsoft-azure)](https://azure.microsoft.com/free/?WT.mc_id=functions-github-shboyer)
+
 ## Developing inside a container
 
 [VS Code Docs for developing inside a container](https://code.visualstudio.com/docs/remote/containers?WT.mc_id=functions-github-shboyer)
