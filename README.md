@@ -1,22 +1,22 @@
 # Java: Azure Functions Dev in a remote container
 
-[![Free Azure Account](https://img.shields.io/badge/Free%20Azure-Account-blue?logo=microsoft-azure)](https://azure.microsoft.com/free/?WT.mc_id=functions-github-shboyer)
+[![Free Azure Account](https://img.shields.io/badge/Free%20Azure-Account-blue?logo=microsoft-azure)](https://azure.microsoft.com/free/?WT.mc_id=dotnet-0000-shboyer)
 
 ## Developing inside a container
 
-[VS Code Docs for developing inside a container](https://code.visualstudio.com/docs/remote/containers?WT.mc_id=functions-github-shboyer)
+[VS Code Docs for developing inside a container](https://code.visualstudio.com/docs/remote/containers?WT.mc_id=dotnet-0000-shboyer)
 
 ## Reference Links
 
-[Azure Functions Java developer guide](https://docs.microsoft.com/azure/azure-functions/functions-reference-java?WT.mc_id=functions-github-shboyer)
+[Azure Functions Java developer guide](https://docs.microsoft.com/azure/azure-functions/functions-reference-java?WT.mc_id=dotnet-0000-shboyer)
 
 ### Simple example tutorial 
 
-[Azure Functions HTTP triggers and bindings](https://docs.microsoft.com/azure/azure-functions/functions-bindings-http-webhook?tabs=java&WT.mc_id=functions-github-shboyer)
+[Azure Functions HTTP triggers and bindings](https://docs.microsoft.com/azure/azure-functions/functions-bindings-http-webhook?tabs=java&WT.mc_id=dotnet-0000-shboyer)
 
 ### Event Hub trigger and Azure Cosmos DB tutorial 
 
-[Create a function in Java with an Event Hub trigger and an Azure Cosmos DB output binding](https://docs.microsoft.com/azure/azure-functions/functions-event-hub-cosmos-db?WT.mc_id=functions-github-shboyer)
+[Create a function in Java with an Event Hub trigger and an Azure Cosmos DB output binding](https://docs.microsoft.com/azure/azure-functions/functions-event-hub-cosmos-db?WT.mc_id=dotnet-0000-shboyer)
 
 ### Base Docker Images for Java
 
